@@ -13,7 +13,7 @@ require (
 	go.chromium.org/luci v0.0.0-20231204022756-276ff2f399c8 // indirect
 	go.skia.org/infra v0.0.0-20240202033404-e83737e1d145
 	google.golang.org/api v0.149.0
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
