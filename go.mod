@@ -39,7 +39,7 @@ require (
 	github.com/danjacques/gofslock v0.0.0-20230728142113-ae8f59f9e88b // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fiorix/go-web v1.0.1-0.20150221144011-5b593f1e8966 // indirect
-	github.com/go-chi/chi/v5 v5.0.8 // indirect
+	github.com/go-chi/chi/v5 v5.2.2 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
